@@ -1,6 +1,9 @@
 # Splendid Tech
 My not only awesome but actually splendid tech stack. Verified to be splendid and used on a nearly daily basis. BTW I'm mostly a back-end guy.
 
+- [Blog](https://aboutsimon.com/blog/)
+- [Twitter](https://twitter.com/aboutsimon)
+
 ## Highlights
 My absolute favorites which made me think and deserve extra attention.
 
