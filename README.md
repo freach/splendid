@@ -87,6 +87,10 @@ I was working on several databases to solve very specific problems over the last
 - [Yeoman](http://yeoman.io/) Scaffolding tool for web applications
 - [Grunt](http://gruntjs.com/) Task runner for repetitive tasks like minification, compilation, unit testing, linting, etc
 
+## Operations
+- [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx) Collection of configuration snippets that can help your server improve the web site's performance and security
+- [SSH Can Do That? Productivity Tips for Working with Remote Servers](http://blogs.perl.org/users/smylers/2011/08/ssh-productivity-tips.html)
+
 ## Lists
 - [Fast Non-Standard Data Structures for Python](http://kmike.ru/python-data-structures/)
 - [Queues](http://queues.io/) Quality list of queues with a collection of articles, blog posts, slides, and videos about them
@@ -98,7 +102,6 @@ I was working on several databases to solve very specific problems over the last
 - [High Scalability](http://highscalability.com/) Blog with good posts about scalability and performance topics
 - [How L1 and L2 CPU caches work](http://www.extremetech.com/extreme/188776-how-l1-and-l2-cpu-caches-work-and-why-theyre-an-essential-part-of-modern-chips)
 - [How Pony (ORM) does its tricks?](http://stackoverflow.com/questions/16115713/how-pony-orm-does-its-tricks)
-- [SSH Can Do That? Productivity Tips for Working with Remote Servers](http://blogs.perl.org/users/smylers/2011/08/ssh-productivity-tips.html)
 - [Understanding CPU utilization](http://careers.directi.com/display/tu/Understanding+CPU+Utilization+and+Optimization)
 - [What Your Computer Does While You Wait](http://duartes.org/gustavo/blog/post/what-your-computer-does-while-you-wait/)
 
