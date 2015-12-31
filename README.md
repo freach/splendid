@@ -89,6 +89,7 @@ I was working on several databases to solve very specific problems over the last
 - [Font Awesome](http://fortawesome.github.com/Font-Awesome/) Font and CSS toolkit
 - [Yeoman](http://yeoman.io/) Scaffolding tool for web applications
 - [Grunt](http://gruntjs.com/) Task runner for repetitive tasks like minification, compilation, unit testing, linting, etc
+- [Jekyll](https://github.com/jekyll/jekyll) A blog-aware, static site generator in Ruby
 
 ## Operations
 - [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx) Collection of configuration snippets that can help your server improve the web site's performance and security
