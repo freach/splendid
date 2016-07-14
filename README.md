@@ -28,6 +28,7 @@ I was working on several databases to solve very specific problems over the last
 ## Data formats
 
 - [msgpack](http://msgpack.org/) Efficient binary serialization format. JSON in fast and small.
+- [HDF5](http://hdfgroup.org/) File format designed to store and organize large amounts of data.
 
 ## Libraries & Frameworks
 
@@ -65,6 +66,10 @@ I was working on several databases to solve very specific problems over the last
 - [Moment.js](http://momentjs.com/) Parse, validate, manipulate, and display dates
 - [Parsley](http://parsleyjs.org/) Form validation library
 - [JADE](http://jade-lang.com/) Template engine
+- [React](https://facebook.github.io/react/) A JavaScript library for building user interfaces
+- [Redux](http://redux.js.org/) A predictable state container for JavaScript apps.
+- [CoffeeScript](http://coffeescript.org/) Language that compiles into JavaScript. Low barrier entry to JavaScript development if you come from Python.
+- [Babel](https://babeljs.io/) ES2015 JavaScript compiler.
 
 ### Java
 - [Lucene](https://lucene.apache.org/core/) High-performance, full-featured text search engine library
@@ -80,6 +85,15 @@ I was working on several databases to solve very specific problems over the last
 - [redis](http://redis.io/) In-memory data structure store, used as database, cache and message broker
 - [RethinkDB](https://www.rethinkdb.com/) JSON database with nice API. Lovely for prototyping and small applications
 
+### AI
+
+#### Machine Learning
+- [Caffe](http://caffe.berkeleyvision.org/) A deep learning framework made with expression, speed, and modularity in mind.
+- [OpenCV](http://opencv.org/) Open source computer vision and machine learning library.
+
+#### Natural Language Processing
+- [NLTK](http://www.nltk.org/) Natural language toolkit for Python.
+
 ### Dev Tools
 - [virtualenv](https://virtualenv.readthedocs.org/en/latest/) Isolated Python environments
 - [virtualenvwrapper](https://virtualenvwrapper.readthedocs.org/en/latest/) Set of extensions to virtualenv
@@ -90,6 +104,7 @@ I was working on several databases to solve very specific problems over the last
 - [Yeoman](http://yeoman.io/) Scaffolding tool for web applications
 - [Grunt](http://gruntjs.com/) Task runner for repetitive tasks like minification, compilation, unit testing, linting, etc
 - [Jekyll](https://github.com/jekyll/jekyll) A blog-aware, static site generator in Ruby
+
 
 ## Operations
 - [Nginx HTTP server boilerplate configs](https://github.com/h5bp/server-configs-nginx) Collection of configuration snippets that can help your server improve the web site's performance and security
@@ -108,6 +123,12 @@ I was working on several databases to solve very specific problems over the last
 - [How Pony (ORM) does its tricks?](http://stackoverflow.com/questions/16115713/how-pony-orm-does-its-tricks)
 - [Understanding CPU utilization](http://careers.directi.com/display/tu/Understanding+CPU+Utilization+and+Optimization)
 - [What Your Computer Does While You Wait](http://duartes.org/gustavo/blog/post/what-your-computer-does-while-you-wait/)
+
+## Youtube
+- [Neural Networks Demystified](https://www.youtube.com/playlist?list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
+- [Stanford CS231n: CNN for Visual Recognition](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
+- [NVIDIA Developer Deep Learning Course](https://www.youtube.com/playlist?list=PL5B692fm6--tI-ijknnVZWbXU2H4JpSYe)
+- [Deep Learning Simplified](https://www.youtube.com/c/deeplearningtv/playlists)
 
 ## License
 
